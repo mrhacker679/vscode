@@ -1,0 +1,13 @@
+ms-python.python
+ms-toolsai.jupyter
+ms-python.vscode-pylance
+formulahendry.code-runner
+eamodio.gitlens
+TabNine.tabnine-vscode
+pythonsourcery.sourcery
+kiteco.black-box
+hackthebox.hackthebox
+tonsky.fira-code
+oderwat.indent-rainbow
+dbaeumer.vscode-eslint
+streetsidesoftware.code-spell-checker
